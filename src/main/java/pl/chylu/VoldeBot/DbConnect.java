@@ -7,7 +7,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 class DbConnect {
-    final Connection connection;
+    final public Connection connection;
     private final Dotenv config;
 
     DbConnect() throws SQLException {
