@@ -1,0 +1,6 @@
+spring:
+
+  datasource:
+    url: jdbc:postgresql://srv16.mikr.us:30513/db
+    username: admin
+    password: 7b7!O87gjPlZ
